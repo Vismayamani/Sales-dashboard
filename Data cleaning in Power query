@@ -1,0 +1,4 @@
+--Remove NA values from Returns column
+by using replace N/A with 0
+
+--Remove columns ind1 and ind2
